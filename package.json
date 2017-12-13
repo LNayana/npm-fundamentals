@@ -1,0 +1,22 @@
+{
+	"name": "npm-fundamentals",
+	"version": "1.0.0",
+	"description": "To learn basics of npm.",
+	"main": "dummyData.js",
+	"scripts": {
+		"start": "node dummyData.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/LNayana/npm-fundamentals.git"
+	},
+	"author": "LNayana",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/LNayana/npm-fundamentals/issues"
+	},
+	"homepage": "https://github.com/LNayana/npm-fundamentals#readme",
+	"devDependencies": {
+		"faker": "^4.1.0"
+	}
+}
